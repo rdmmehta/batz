@@ -3,7 +3,7 @@ title: "BankingAtoZ"
 about: "All your Banking info"
 markdown: kramdown
 url: ""
-baseurl: "/batz"
+baseurl: "/"
 disqus_short_name: disqus-demo-page
 
 plugins: 
