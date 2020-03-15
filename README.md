@@ -17,19 +17,3 @@ A Bootstrap theme for jekyll.
 7. Upload the files on your repository and :sunglasses: enjoy.
 
 
-# Screenshots
-
-## BLOG PAGE
-![Blog page](https://github.com/sharadcodes/jekyll-theme-milo/raw/master/screenshots/1.png)
-## BLOG PAGE IN MOBILE
-![Blog page](https://github.com/sharadcodes/jekyll-theme-milo/raw/master/screenshots/2.png)
-## POST EXAMPLE IN MOBILE
-![Sampe post](https://github.com/sharadcodes/jekyll-theme-milo/raw/master/screenshots/3.png)
-## POST EXAMPLE
-![Sampe post](https://github.com/sharadcodes/jekyll-theme-milo/raw/master/screenshots/4.png)
-## ABOUT PAGE
-![About](https://github.com/sharadcodes/jekyll-theme-milo/raw/master/screenshots/5.png)
-## DISQUS
-![DISQUQ page](https://github.com/sharadcodes/jekyll-theme-milo/raw/master/screenshots/6.png)
-## 404 Custom page
-![404 page](https://github.com/sharadcodes/jekyll-theme-milo/raw/master/screenshots/6.png)
