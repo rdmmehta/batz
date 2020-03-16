@@ -1,5 +1,5 @@
-# Milo
-A Bootstrap theme for jekyll.
+# BankingAtoZ
+Website about basics of banking
 
 ## Install and Test
 
