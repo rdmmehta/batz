@@ -7,7 +7,7 @@ favicon: ''
 baseurl: /
 google_analytics: ''
 disqus: ''
-mailchimp-list: ''
+mailchimp-list: 'https://ridh.us10.list-manage.com/subscribe/post?u=651597af18b7f25d64715d630&amp;id=f8ff3217a1'
 include: ["_pages"]
 permalink: /:title/
 
