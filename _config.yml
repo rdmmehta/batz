@@ -3,7 +3,7 @@ name: "BankingAtoZ"
 title: "BankingAtoZ"
 description: "Your Banker friend."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'img/ba1.png'
 baseurl: /
 google_analytics: ''
 disqus: ''
