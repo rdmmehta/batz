@@ -3,7 +3,7 @@ title: Bank Fixed Deposit now Give Less Interest Than Saving
 layout: post
 date: 2020-06-11
 description: A comparision of Fixed Deposit interest.
-image: img/post-img/interest-rates.png
+image: img/post-img/fdr-interest-featured.jpg
 categories: ["Fixed Deposit"]
 featured: true
 author: Ridhim
