@@ -3,7 +3,7 @@ title: Interest on Premature FDR
 layout: post
 date: 2020-03-15
 description: A complete post.
-image: img/post-img/fdr-interest-featured.jpg
+image: img/post-img/fdr-interest.jpg
 categories: ["Fixed Deposit"]
 featured: true
 author: Ridhim
