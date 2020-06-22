@@ -24,6 +24,6 @@ For Punjab National Bank account holders Bank has provided 2 ways to enable this
  2. Internet Banking
       Login> Value Added Services> Debit Card Enable/Disable> Select Account and enter Card details> Submit
       
-<a href="https://www.pnbindia.in/Debit-Card-Trans-Enable-Disable.html>Visit Official PNB Website for detailed explanation.</a>
+<a href="https://www.pnbindia.in/Debit-Card-Trans-Enable-Disable.html">Visit Official PNB Website for detailed explanation.</a>
       
 Hope this was helpful to you.
