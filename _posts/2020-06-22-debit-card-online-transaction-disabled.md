@@ -10,11 +10,13 @@ author: Ridhim
 ---
 
 Wondering why your debit card not working for International or Online transaction?
+
 Well as a security feature from RBI all debit/credit cards which have not been used for online and international transaction will be disabled for these two facilities.
+
 RBI made it clear in its circular dated 15 january <a href="https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11788&Mode=0">Link</a>
 
 Apart from this all Debit/Credit Cards which will be issued after said date will also be issued with these faciities disabled.
-Accoun holders can enable these facilities using the internet banking of their bank, ATM and other various channels.
+Account holders can enable these facilities using the internet banking of their bank, ATM and other various channels.
 
 <u>For Punjab National Bank account holders Bank has provided 2 ways to enable this option.</u>
   
