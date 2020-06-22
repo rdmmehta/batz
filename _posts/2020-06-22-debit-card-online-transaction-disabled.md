@@ -16,7 +16,7 @@ RBI made it clear in its circular dated 15 january <a href="https://www.rbi.org.
 Apart from this all Debit/Credit Cards which will be issued after said date will also be issued with these faciities disabled.
 Accoun holders can enable these facilities using the internet banking of their bank, ATM and other various channels.
 
-For Punjab National Bank account holders Bank has provided 2 ways to enable this option.
+<u>For Punjab National Bank account holders Bank has provided 2 ways to enable this option.</u>
   
  1. Using ATM
       Banking> Language> Card Services> Enable/Disable
@@ -26,7 +26,8 @@ For Punjab National Bank account holders Bank has provided 2 ways to enable this
       
 <a href="https://www.pnbindia.in/Debit-Card-Trans-Enable-Disable.html">Visit Official PNB Website for detailed explanation.</a>
 
-For State Bank of India:
+<u>For State Bank of India:</u>
+
   Using Internet Banking:
     Login> eServices> ATM Card Services> ATM card Limit/Channel/Usage Limit
       
