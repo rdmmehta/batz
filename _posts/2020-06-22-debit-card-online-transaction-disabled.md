@@ -25,5 +25,9 @@ For Punjab National Bank account holders Bank has provided 2 ways to enable this
       Login> Value Added Services> Debit Card Enable/Disable> Select Account and enter Card details> Submit
       
 <a href="https://www.pnbindia.in/Debit-Card-Trans-Enable-Disable.html">Visit Official PNB Website for detailed explanation.</a>
+
+For State Bank of India:
+  Using Internet Banking:
+    Login> eServices> ATM Card Services> ATM card Limit/Channel/Usage Limit
       
 Hope this was helpful to you.
