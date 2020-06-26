@@ -4,7 +4,7 @@ layout: post
 date: 2020-06-26
 description: What you need to do when you lose your credit/debit card.
 image: img/post-img/atm-bankingatoz.jpg
-categories: ["Fixed Deposit"]
+categories: ["Debit Card, Credit Card"]
 author: Ridhim
 ---
 
