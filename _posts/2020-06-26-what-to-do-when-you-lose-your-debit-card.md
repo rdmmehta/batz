@@ -8,7 +8,7 @@ categories: ["Fixed Deposit"]
 author: Ridhim
 ---
 
-Losing your debit or credit card should never be taken lightly. But most of us are take it lightly and just ignore the fact that anyone can misuse it.
+Losing your debit or credit card should never be taken lightly. But most of us take it lightly and just ignore the fact that anyone can misuse it.
 
 I've seen many people who don't even bother blocking their debit card when it is lost. Although it can be done in few easy steps.
 
