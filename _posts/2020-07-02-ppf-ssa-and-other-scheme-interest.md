@@ -12,7 +12,7 @@ The Department of Posts made an announcement on July 1 that goverment has kept i
 
 <u>Interest rates for second quarter of 2020-21:</u>
 
-<img src="https://bankingatoz.com/img/ppf-ssa-interest.png"/>
+<img src="https://bankingatoz.com/img/post-img/ppf-ssa-interest.png"/>
 
 In previous quarter govt slashed interest rates by 70-140bps(0.70-1.40%).
 
