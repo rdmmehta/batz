@@ -1,11 +1,10 @@
-
 ---
 title: Bank Charges Back To Normal from July 1
 layout: post
 date: 2020-07-02
 description: Relaxations which were announced during lockdown will not be applicable in Unlock 2.0
 image: img/post-img/bank-img.jpg
-categories: ["Debit Card"]
+categories: ["News"]
 author: Ridhim
 ---
 
