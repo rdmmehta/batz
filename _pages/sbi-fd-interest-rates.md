@@ -25,39 +25,39 @@ comments: true
 <td colspan="2">3.40</td>
 </tr>
 <tr>
-<td>46 days to 179 days</td>
-<td>3.90</td>
-<td>4.40</td>
+<td colspan="2">46 days to 179 days</td>
+<td colspan="2">3.90</td>
+<td colspan="2">4.40</td>
 </tr>
 <tr>
-<td>180 days to 210 days</td>
-<td>4.40</td>
-<td>4.90</td>
+<td colspan="2">180 days to 210 days</td>
+<td colspan="2">4.40</td>
+<td colspan="2">4.90</td>
 </tr>
 <tr>
-<td>211 days to less than 1 year</td>
-<td>4.40</td>
-<td>4.90</td>
+<td colspan="2">211 days to less than 1 year</td>
+<td colspan="2">4.40</td>
+<td colspan="2">4.90</td>
 </tr>
 <tr>
-<td>1 year to less than 2 year</td>
-<td>5.10</td>
-<td>5.60</td>
+<td colspan="2">1 year to less than 2 year</td>
+<td colspan="2">5.10</td>
+<td colspan="2">5.60</td>
 </tr>
 <tr>
-<td>2 years to less than 3 years</td>
-<td>5.10</td>
-<td>5.60</td>
+<td colspan="2">2 years to less than 3 years</td>
+<td colspan="2">5.10</td>
+<td colspan="2">5.60</td>
 </tr>
 <tr>
-<td>3 years to less than 5 years;</td>
-<td>5.30</td>
-<td>5.80</td>
+<td colspan="2">3 years to less than 5 years;</td>
+<td colspan="2">5.30</td>
+<td colspan="2">5.80</td>
 </tr>
 <tr>
-<td>5 years and up to 10 years</td>
-<td>5.40</td>
-<td>6.20</td>
+<td colspan="2">5 years and up to 10 years</td>
+<td colspan="2">5.40</td>
+<td colspan="2">6.20</td>
 </tr>
 </tbody>
 </table>
