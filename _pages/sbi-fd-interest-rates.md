@@ -12,7 +12,7 @@ comments: true
 <u>State Bank of India FDR rates w.e.f 27/05/2020.</u>
 
 <div>
-<table style= border="10" cellpadding="7">
+<table class="flat-table">
 <tbody>
 <tr>
 <td colspan="2">Tenor</td>
