@@ -5,9 +5,11 @@ permalink: /sbi-fd-interest-rates
 comments: true
 ---
 <img src="https://www.sbi.co.in/o/SBI-Theme/images/custom/logo.png" alt="SBI">
+
+
 <u>State Bank of India FDR rates w.e.f 27/05/2020.</u>
 
-
+<div>
 <table style= border="10" cellpadding="7">
 <tbody>
 <tr>
@@ -57,3 +59,4 @@ comments: true
 </tr>
 </tbody>
 </table>
+</div>
