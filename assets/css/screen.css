@@ -906,7 +906,7 @@ iframe {
   overflow: auto;
   width: auto;
   
-  tr {
+  th {
     background-color: rgb(112, 196, 105);
     color: white;
     font-weight: normal;
