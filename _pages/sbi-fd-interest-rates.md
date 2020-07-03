@@ -1,7 +1,7 @@
 ---
 layout: page
 title: State Bank of India FD Interest Rates
-permalink: /about
+permalink: /sbi-fd-interest-rates
 comments: true
 ---
 <img src="https://www.sbi.co.in/o/SBI-Theme/images/custom/logo.png" alt="SBI">
