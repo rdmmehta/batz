@@ -15,14 +15,14 @@ comments: true
 <table style= border="10" cellpadding="7">
 <tbody>
 <tr>
-<td>Tenor</td>
-<td>Revised Rates w.e.f. <br/>27.05.2020</td>
-<td>Revised Rates for Senior <br/>Citizens w.e.f. 27.05.2020</td>
+<td colspan="2">Tenor</td>
+<td colspan="2">Revised Rates w.e.f. <br/>27.05.2020</td>
+<td colspan="2">Revised Rates for Senior <br/>Citizens w.e.f. 27.05.2020</td>
 </tr>
 <tr>
-<td>7 days to 45 days</td>
-<td>2.90</td>
-<td>3.40</td>
+<td colspan="2">7 days to 45 days</td>
+<td colspan="2">2.90</td>
+<td colspan="2">3.40</td>
 </tr>
 <tr>
 <td>46 days to 179 days</td>
