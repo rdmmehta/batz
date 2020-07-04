@@ -9,7 +9,7 @@ comments: false
 <img src="https://www.pnbindia.in/images/logo.jpg" alt="PNB">
 
 
-<u>State Bank of India FDR rates w.e.f 27/05/2020.</u>
+<u>Punjab National Bank FDR rates w.e.f 01/07/2020.</u>
 
 <div>
 <table class="flat-table">
