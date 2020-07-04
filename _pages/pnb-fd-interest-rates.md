@@ -35,7 +35,6 @@ comments: false
 <td colspan="2">4.75</td>
 </tr>
 <tr>
-<tr>
 <td colspan="2">180 days to 270 days</td>
 <td colspan="2">4.40</td>
 <td colspan="2">5.15</td>
