@@ -25,3 +25,8 @@ GST On Fee @18%= 0.441/- (b)
 So final price of 1 USD = 72.8910/-
 
 For USD100 he will pay 72.8910 x 100 = 7289.10/-
+
+So next time you're about to do an International transaction, do keep this Markup Fee in mind. 
+
+
+
