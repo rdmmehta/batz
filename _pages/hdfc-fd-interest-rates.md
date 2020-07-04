@@ -9,7 +9,7 @@ comments: false
 <img src="https://v1.hdfcbank.com/htdocs/aboutus/awards/images/logo_reverse.jpg" alt="HDFC">
 
 
-<u>State Bank of India FDR rates w.e.f 27/05/2020.</u>
+<u>HDFC Bank FDR rates w.e.f 27/05/2020.</u>
 
 <div>
 <table class="flat-table">
