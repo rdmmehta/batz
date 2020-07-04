@@ -11,7 +11,7 @@ Here you can find interest rates of leading Banks.
 
 
 
-*<a href="https://bankingatoz.com/pnb-fd-interest-rates"><Punjab National Bank</a>
+*<a href="https://bankingatoz.com/pnb-fd-interest-rates">Punjab National Bank</a>
 
 
 *<a href="https://bankingatoz.com/sbi-fd-interest-rates">State Bank of India</a>
