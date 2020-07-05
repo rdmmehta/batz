@@ -6,7 +6,7 @@ comments: false
 ---
 
   
-<img src="https://bankingatoz.com/img/icici-bank.jpg" alt="HDFC">
+<img src="https://bankingatoz.com/img/icici-bank.jpg" alt="ICICI">
 
 
 <u>ICICI Bank FDR rates w.e.f 16/06/2020.</u>
