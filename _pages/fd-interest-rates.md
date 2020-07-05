@@ -7,7 +7,7 @@ comments: false
 
 Here you can find interest rates of leading Banks.
 
-<u>Note: These pages are updated regularly, date of update is mentioned on every page.</u>
+###<u>Note: These pages are updated regularly, date of update is mentioned on every page.</u>
 
 
 
