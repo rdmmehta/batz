@@ -22,4 +22,10 @@ Here you can find interest rates of leading Banks.
 
 *<a href="https://bankingatoz.com/icici-fd-interest-rates">ICICI Bank</a>
 
-*<a href="https://bankingatoz.com/bob-fd-interest-rates">BoB</a>
+
+*<a href="https://bankingatoz.com/bob-fd-interest-rates">Bank of Baroda</a>
+
+
+*<a href="https://bankingatoz.com/boi-fd-interest-rates">Bank of India</a>
+
+
