@@ -9,7 +9,7 @@ comments: false
 <img src="https://www.bankofbaroda.in/writereaddata/images/logo.png" alt="BOB">
 
 
-<u>ICICI Bank FDR rates w.e.f 02/06/2020.</u>
+<u>Bank of Baroda FDR rates w.e.f 02/06/2020.</u>
 
 <div>
 <table class="flat-table">
