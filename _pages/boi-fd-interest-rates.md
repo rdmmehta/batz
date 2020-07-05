@@ -9,7 +9,7 @@ comments: false
 <img src="https://www.bankofindia.co.in/Content/Images/scroll-logo.png" alt="ICICI">
 
 
-<u>ICICI Bank FDR rates w.e.f 01/07/2020.</u>
+<u>Bank of India FDR rates w.e.f 01/07/2020.</u>
 
 <div>
 <table class="flat-table">
