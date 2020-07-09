@@ -1,10 +1,10 @@
 ---
 title: Senior Citizens Now Get More Interest on FDRs
 layout: post
-date: 2020-07-04
+date: 2020-07-09
 description: Good news for senior citizens, as banks now offer more interest to them, over the existing 0.50%.
 image: img/post-img/bank-interest-rates.jpg
-categories: ["International Transaction"]
+categories: ["News"]
 author: Ridhim
 ---
 
