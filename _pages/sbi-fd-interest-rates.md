@@ -3,6 +3,7 @@ layout: page
 title: State Bank of India FD Interest Rates
 permalink: /sbi-fd-interest-rates
 comments: false
+featured: true
 ---
 
   
