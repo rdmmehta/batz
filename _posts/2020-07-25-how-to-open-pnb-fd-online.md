@@ -28,5 +28,7 @@ Just follow these following steps:
 
 <img src="https://dl.dropboxusercontent.com/s/79ov7y7j6olbh9a/PNB-INTERNET-BANKING-07.png?dl=0" />
 
+After filling the form simply click on the **Submit** button and you'll have a print option to print your FDR.
+
 
 
