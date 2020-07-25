@@ -30,3 +30,9 @@ type SMS **DEACTIV** [space] **Last 6 Digit of CreditCard** [space] **Date of Bi
 <u>To Hotlist Card:</u>
 
 type SMS **HOT** [space] **Last 4 Digit of CreditCard** send to **7092200200**
+
+
+
+You can also call customer care at 1800-180-2345
+
+
