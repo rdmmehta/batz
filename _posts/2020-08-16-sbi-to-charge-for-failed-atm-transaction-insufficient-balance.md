@@ -9,6 +9,7 @@ author: Ridhim
 ---
 
 State Bank of India announced that they will start charging for failed ATM transactions due to insufficient balance in the account.
+
 So, account holders need to make sure they have enough balance in their account before they do any transaction.
 
 SBI will charge Rs20/- + GST for every failed transaction.
