@@ -5,6 +5,7 @@ date: 2020-08-16
 description: If you feel balance in your account is less than the transaction amount, then read this.
 image: img/post-img/sbi-to-charge.jpg
 categories: ["SBI"]
+featured: true
 author: Ridhim
 ---
 
