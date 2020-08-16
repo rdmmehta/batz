@@ -4,7 +4,7 @@ layout: post
 date: 2020-06-11
 description: A comparision of Fixed Deposit interest.
 image: img/post-img/fdr-interest-featured.jpg
-categories: ["Fixed Deposit"]]
+categories: ["Fixed Deposit"]
 author: Ridhim
 ---
 
