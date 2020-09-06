@@ -23,12 +23,12 @@ RBI has included some fresh categories in Priority Sector Lending. These include
 **Some of the key features of revised PSL guidelines are:**  
 
 >To address regional disparities in the flow of priority sector credit, higher weightage have been assigned to incremental priority sector credit in ‘identified districts’ where priority sector credit flow is comparatively low.
-
+>
 >The targets prescribed for “small and marginal farmers” and “weaker sections” are being increased in a phased manner.
-
+>
 >Higher credit limit has been specified for Farmers Producers Organisations (FPOs)/Farmers Producers Companies (FPCs) undertaking farming with assured marketing of their produce at a pre-determined price.
-
+>
 >Loan limits for renewable energy have been doubled.
-
+>
 >Credit limit for health infrastructure (including those under ‘Ayushman Bharat’) has been doubled.
 
