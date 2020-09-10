@@ -1,7 +1,7 @@
 ---
 title: SBI Planning to Launch Loan Scheme SAFAL for Organic Cotton Growers 
 layout: post
-date: 2020-09-09
+date: 2020-09-10
 description: Punjab National Bank customers can download form16 online in just few steps.
 image: img/post-img/sbi-1009.jpg
 categories: ["PNB"]
