@@ -1,7 +1,7 @@
 ---
 title: PNB Launches Festival Bonanza Offer, Waves Processing charges on Housing and car Loan
 layout: post
-date: 2020-09-09
+date: 2020-09-10
 description: Punjab National Bank launches Festival Bonanza Offer, waves Processing and Documentation charges.
 image: img/post-img/pnb-festival.png
 categories: ["PNB"]
