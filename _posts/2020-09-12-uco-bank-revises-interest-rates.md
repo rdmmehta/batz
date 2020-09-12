@@ -3,8 +3,8 @@ title: UCO Bank Revises Term Deposit Interest Rates
 layout: post
 date: 2020-09-10
 description: UCO Bank term deposit interest rates on 10 September.
-image: img/post-img/sbi-1009.jpg
-categories: ["PNB"]
+image: img/post-img/uco-bank.png
+categories: ["UCO Bank"]
 featured: false
 author: Ridhim
 ---
