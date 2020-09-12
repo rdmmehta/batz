@@ -5,6 +5,8 @@ permalink: /fd-interest-rates
 comments: false
 ---
 
+
+
 Here you can find interest rates of leading Banks.
 
 <u>Note: These pages are updated regularly, date of update is mentioned on every page.</u>
@@ -27,5 +29,8 @@ Here you can find interest rates of leading Banks.
 
 
 - <a href="https://bankingatoz.com/boi-fd-interest-rates">Bank of India</a>
+
+- <a href="https://bankingatoz.com/uco-bank-fd-interest-rates">UCO Bank</a>
+
 
 
