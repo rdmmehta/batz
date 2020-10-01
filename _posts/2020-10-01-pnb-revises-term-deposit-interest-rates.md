@@ -3,7 +3,7 @@ title: PNB Revises Term Deposit Interest Rates
 layout: post
 date: 2020-10-01
 description: Punjab National Bank revises its interest rates.
-image: img/post-img/pnb-festival.png
+image: img/post-img/pnb.png
 categories: ["PNB"]
 featured: false
 author: Ridhim
