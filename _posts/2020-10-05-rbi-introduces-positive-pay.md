@@ -5,7 +5,7 @@ date: 2020-10-06
 description: Reserve Bank of India (RBI) announces introduction of Positive Pay System for Cheque Truncation System (CTS).
 image: img/post-img/rbi.jpg
 categories: ["RBI"]
-featured: false
+featured: true
 author: Ridhim
 ---
 
