@@ -5,7 +5,7 @@ date: 2020-06-22
 description: Online/International transaction on some cards are disabled from 16 March.
 image: img/post-img/Debit-card.jpg
 categories: ["Debit Card"]
-featured: true
+featured: false
 author: Ridhim
 ---
 
