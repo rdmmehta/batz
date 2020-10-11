@@ -84,3 +84,8 @@ const App = () => {
 
 ReactDOM.render(<App />, document.getElementById("root"))
 </script>
+
+<script. src="https://cdnjs.cloudflare.com/ajax/libs/react/16.13.1/umd/react.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.13.1/umd/react-dom.production.min.js"></script>
+
+
