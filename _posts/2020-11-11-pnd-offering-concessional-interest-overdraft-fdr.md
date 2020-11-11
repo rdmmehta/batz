@@ -13,7 +13,9 @@ As RBI is pushing banking towards digitisation, Punjab National Bank announced t
 
 They are also giving this message as a popup in their app.
 
+
 <img src="https://bankingatoz.com/img/post-img/pnbone-fdr.jpg"  alt="pnb one"/>
+
 
 At present PNB charges 1% over the FDR interest for overdraft facility. So when you opt for overdraft using online facility then you will be charges 0.75%.
 
