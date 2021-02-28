@@ -11,6 +11,8 @@ author: Ridhim
 
 Reserve Bank of India issued guidelines that online webistes will not be able to save credit/debit card details of users.
 
+These guidelines will come into effet from July beginning.
+
 Users now won't be able to save their card details on any website and will have to inpur it everytime they need to use it. 
 So it means you will have to keep your cards handy all the time or memorise them.
 
